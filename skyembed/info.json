@@ -1,10 +1,10 @@
 {
-    "author": ["Skylarr"],
-    "install_msg": "This cog was made by skylarr#6666, thanks for installing it.",
-    "name": "skyembed cog",
+    "author": ["SweatyFn"],
+    "install_msg": "Valorant Tracker",
+    "name": "Valorant Tracker",
     "disabled": false,
-    "short": "Sky's 1st cog",
-    "description": "cogs made by Skylarr#6666",
+    "short": "Sweaty",
+    "description": "Valo",
     "tags": [],
     "requirements": [],
     "hidden": false
