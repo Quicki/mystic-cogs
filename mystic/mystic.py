@@ -1,9 +1,4 @@
-import discord
-import requests
-from discord.ext import commands
-from discord.ext.commands.cooldowns import BucketType
-from redbot.core import Config, commands, checks
-
+from redbot.core import commands
 
 class MyCog(commands.Cog):
     """My custom cog"""

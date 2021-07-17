@@ -1,6 +1,5 @@
-from .skyembed import Skyembed
+from .mycog import MyCog
 
 
 def setup(bot):
-    cog = Skyembed(bot)
-    bot.add_cog(cog)
+    bot.add_cog(MyCog(bot))
